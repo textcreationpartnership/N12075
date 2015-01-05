@@ -111,8 +111,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:015234_0000_0F982CE5439EF8B0"/>
-            <pb facs="tcp:015234_0001_0F982CE60340AFF8" rendition="simple:additions"/>
+            <pb facs="unknown:015234_0000_0F982CE5439EF8B0"/>
+            <pb facs="unknown:015234_0001_0F982CE60340AFF8"
+                rendition="simple:additions"/>
             <p>SOME MISCELLANEOUS REMARKS, AND SHORT ARGUMENTS, ON A SMALL PAMPHLET, Dated in the CONVENTION of the REPRESENTATIVES of the STATE of NEW-YORK, <hi>October</hi> 2, 1776, and sent from said CONVENTION to the County of CUMBERLAND.</p>
             <p>AND Some REASONS given, why the District of the <hi>New-Hampshire Grants</hi> had best be a STATE.</p>
             <p>By <hi>IRA ALLEN.</hi>
@@ -120,14 +121,15 @@
             <p>HARTFORD: Printed by EBENEZER WATSON, near the GREAT BRIDGE. M.DCC.LXXVII.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:015234_0002_0F982CE6C359C9C0" rendition="simple:additions"/>
+            <pb facs="unknown:015234_0002_0F982CE6C359C9C0"
+                rendition="simple:additions"/>
             <head>PREFACE.</head>
             <p>THE following impartial work was under<g ref="char:EOLhyphen"/>taken by and at the request, of the General Convention of the district of the New-Hampshire Grants, and many matters of fact are here inserted, as a short state of the disingenuous cunning of the former government (now State) of New-York, to<g ref="char:EOLhyphen"/>wards the inhabitants of said district. Which are humbly dedicated to the candid reader, by the au<g ref="char:EOLhyphen"/>thor, for the good of mankind</p>
          </div>
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:015234_0003_0F982CE783779E78"/>
+            <pb facs="unknown:015234_0003_0F982CE783779E78"/>
             <head>SOME MISCELLANEOUS REMARKS, &amp;c.</head>
             <p>OUR Author informs us in Page 7th and 8th, viz.
 <q>It is unquestionable, that the jurisdiction of this State over the territory which now comprehends the County of Cumber<g ref="char:EOLhyphen"/>land, is co-eval with its first formation as a colony under the crown of Great-Britain.</q>
@@ -138,7 +140,7 @@
                   <desc>•</desc>
                </gap>he province of New-York, and the territories depending thereon, in America.</p>
             <p>BEFORE the accession of King William and Queen Mary to the throne, plantations were extended northwardly, either on patents pro<g ref="char:EOLhyphen"/>cured
-<pb n="4" facs="tcp:015234_0004_0F982CE8432943E0"/>
+<pb n="4" facs="unknown:015234_0004_0F982CE8432943E0"/>
 immediately from the crown or government, or mere set<g ref="char:EOLhyphen"/>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -175,7 +177,7 @@ is the height of folly. It was in the natur<gap reason="illegible" resp="#PDCC" 
                   <desc>•</desc>
                </gap>.</p>
             <p>
-               <pb n="5" facs="tcp:015234_0005_0F982CE9038DC270"/>OUR Author further inserts in page 8, these words, viz<g ref="char:punc">▪</g>
+               <pb n="5" facs="unknown:015234_0005_0F982CE9038DC270"/>OUR Author further inserts in page 8, these words, viz<g ref="char:punc">▪</g>
                <q>
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -223,7 +225,7 @@ This i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </gap>tion, it will be remitted to them again to their everlasting honour, for ex<g ref="char:EOLhyphen"/>erting themselves to maintain the liberties God has given us; if each State have done their equal proportion, then consequently each State will pay their proportion, according to their abilities, until said Bill is discharged.</p>
             <p>OUR Author asserts the following lines in page 10.
 <q>And the success of the great cause in which the whole continent is en<g ref="char:EOLhyphen"/>gaged
-<pb n="6" facs="tcp:015234_0006_0F982CE9C314F4A8"/>
+<pb n="6" facs="unknown:015234_0006_0F982CE9C314F4A8"/>
 cannot but be weakened by dissention and by counte<g ref="char:EOLhyphen"/>
                   <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -240,7 +242,7 @@ This objection, at <gap reason="illegible" resp="#PDCC" extent="1 span">
                </gap>r their wise deliberati<g ref="char:EOLhyphen"/>on and determination, which is our ardent wish.</p>
             <p>GOD gave mankind freedom by nature and made every man equal to his neighbour, and has virtually enjoined them to govern themselves by their own laws.</p>
             <p>
-               <pb n="7" facs="tcp:015234_0007_0F982CEB29C23368"/>DOUBTLESS you remember in antient times, every <gap reason="illegible" resp="#PDCC" extent="1 span">
+               <pb n="7" facs="unknown:015234_0007_0F982CEB29C23368"/>DOUBTLESS you remember in antient times, every <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> his own vine and fig-tree and there was none to <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -276,7 +278,7 @@ This objection, at <gap reason="illegible" resp="#PDCC" extent="1 span">
                </gap>st ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ks of Connecticut-River,
-<pb n="8" facs="tcp:015234_0008_0F982CEB4341EC60"/>
+<pb n="8" facs="unknown:015234_0008_0F982CEB4341EC60"/>
 for some sinister views to the crown (or by the influence of <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> gentlemen in New-York) and contrary to the free voice of the inhabitants of the whole district of the New-Hamp<g ref="char:EOLhyphen"/>shire Grants, as it rendered the situation of the inhaqitants very disagreable in many respects, and one o<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -300,7 +302,7 @@ for some sinister views to the crown (or by the influence of <gap reason="illegi
                </gap> was w<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>th Adam in his original purity. He transgressed the divine law, thereby brought sin and misery on himself and posterity, which
-<pb n="9" facs="tcp:015234_0009_0F982CEC0518BFA0"/>
+<pb n="9" facs="unknown:015234_0009_0F982CEC0518BFA0"/>
 deprived his successors of those liberties and mansions God had given him. Each man is accountable to his creator for the part he now takes, for on the conduct of the present age depends the liberties of millions yet unborn.</p>
             <p>SINCE this vast continent has made this noble stand, have and still continue to weild the sword of liberty, to preserve inviolate the freedom of the present and future ages, and are about to esta<g ref="char:EOLhyphen"/>blish new and free States under the authority of the people, it behoves us, as inhabitants of the New-Hampshire Grants, to view with candour our own situation.</p>
             <p>WE principally emigrated from the New-England States, the former laws, rules and regulations of which, were nearly ali<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -316,7 +318,7 @@ deprived his successors of those liberties and mansions God had given him. Each 
                         <div type="resolution">
                            <p>In Convention of the representa<g ref="char:EOLhyphen"/>tives of the State of New-York, at Harlem, August 2, 1776. <hi>Resolved Unanimously,</hi>
 That all quit-rents formerly due and pay<g ref="char:EOLhyphen"/>able to the King of Great-Britain within this State, are now due
-<pb n="10" facs="tcp:015234_0010_0F982CECC34ACDD0"/>
+<pb n="10" facs="unknown:015234_0010_0F982CECC34ACDD0"/>
 and owing unto this Convention, or such future government as may be hereafter established in this state.</p>
                            <closer>
                               <hi>Extract from the Minutes,</hi> 
@@ -334,7 +336,7 @@ and owing unto this Convention, or such future government as may be hereafter es
                </gap> three fold quit-rent.</p>
             <p>THIS act of the former government carries the colour of tyran<g ref="char:EOLhyphen"/>ny in its very visage, and is plain to be seen by the weakest capacity.</p>
             <p>I cannot see why there is not as much tyranny in taking this three-fold quit-rent, since the dissolution of the British power in America, as there was in giving the subsequent patent, for it is still holding up in existence, one of those cruel acts, which indu<g ref="char:EOLhyphen"/>ced
-<pb n="11" facs="tcp:015234_0011_0F982CED83D1A940"/>
+<pb n="11" facs="unknown:015234_0011_0F982CED83D1A940"/>
 us to take arms and join our brethren in the several United States, to defend the liberties of the whole.</p>
             <p>BY this the candid reader will easily see the almost infinite disproportion of collecting money for public expence.</p>
             <p>TO understand political power right, and derive it from its ori<g ref="char:EOLhyphen"/>ginal, we must consider what state all men are naturally in, and that is a state of perfect freedom, to order their actions and dispose of their possessions and persons as they shall think fit, within the bounds of the law of nature, without asking leave or depending upon the wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -347,7 +349,7 @@ us to take arms and join our brethren in the several United States, to defend th
             <p>THE natural and just rights of a free people is first, the making and, secondly, executing their own laws: On these two branches depends the liberties of a free people, and are guarded by having the controul of those branches in their own hands. And now the inhabitants of the district of the New-Hampshire Grants, being invested with such powers as the God of nature has blessed them with; although Delegates from the counties of Cumberland and Gloucester have been admitted to sit in the Honourable Provincial Congress of New-York, yet the following will plainly demon<g ref="char:EOLhyphen"/>strate, that they were not legally chosen by the inhabitants of said counties at large; for it would be unreasonable, even to suppose, that the inhabitants of said district of the New <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>
-               <pb n="12" facs="tcp:015234_0012_0F982CEE431CA950"/>
+               <pb n="12" facs="unknown:015234_0012_0F982CEE431CA950"/>
 with a power, with whom they had been for a number of years <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>rnestly contending, without any hopes of redress.</p>
@@ -358,11 +360,11 @@ with a power, with whom they had been for a number of years <gap reason="illegib
                </gap>om the greatest number of votes ap<g ref="char:EOLhyphen"/>peared, were declared accepted without allowing a negative voice, when at the same time it was generally conceeded to by the said County Convention, that it was contrary to the free voice of three-fourths of the inhabitants of said county, to elect delegates to represent them in Convention aforesaid, or to be otherwise connected with them; so that by this method of choosing, if one man has ten votes, another five, and another three, they would be severally chosen by the people at large, to assist in the establish<g ref="char:EOLhyphen"/>ment of a code of laws, by which the whole are to be governed. True this mode of choosing is a sure and quick method of get<g ref="char:EOLhyphen"/>ting a choice the first attempt, and where a community are agreed in the mode, is justifiable, but this mode would be very wrongly applied to these counties, considering the aged conflict which has subsisted so long, and with such impetuousity, as to spill the blood of several of its inhabitants. It ever was and still is disa<g ref="char:EOLhyphen"/>greable for the inhabitants of those counties, to be and remain within the jurisdiction of New-York, therefore, according to na<g ref="char:EOLhyphen"/>tural liberty, a vote should have been first obtained for choosing delegates, and secondly (if that were compleated) the mode of choosing; that is, the inhabitants of each town, in their public town meeting, appointed for that purpose, to deliver to the Mo<g ref="char:EOLhyphen"/>derator or clerk, their votes severally, in writing, which votes to be carefully sealed up in the presence of such meeting and pro<g ref="char:EOLhyphen"/>perly conveyed to some meet person, duly appointed to receive and deliver the same to the chairman of the county committee, who, with a quorum, is to compleat what is further <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="13" facs="tcp:015234_0013_0F982CEF03A9F148"/>
+               <pb n="13" facs="unknown:015234_0013_0F982CEF03A9F148"/>
 thereon; but not in the clandestine way of designing men's going to the habitations of private individuals to collect votes.</p>
             <p>IN the County of Cumberland there is upwards of two thou<g ref="char:EOLhyphen"/>sand voters, out of which there was but three hundred and sixty-eight in favour of electing delegates, to sit in the Honourable Convention of New-York, viz. For Colonel Joseph Marsh 358, For Captain John Sessions 172, and for Simon Stevens, <abbr>Esq</abbr> 166. Six or seven towns in said county did at the same time enter their protest against election, and even the county committee, who gave the Delegates their credentials, did restrict them to particular in<g ref="char:EOLhyphen"/>structions, reserving to themselves, in behalf of the county, a right of absenting from the State of New-York, whenever a suit<g ref="char:EOLhyphen"/>able opportunity would admit thereof; yet, Messrs Sessions and Stevens, two of the delegates of Cumberland county (if I may so call them) declared in Congress, that they were chosen by the people at large, that the committee who gave them their instruc<g ref="char:EOLhyphen"/>tions and sent the said letter to the Convention, were elected long before their own election as deputies for said county; that their credentials from the county gave them full and unrestrained power in forming a government; that they conceive themselves no far<g ref="char:EOLhyphen"/>ther bound by their instruction, than they shall appear to be right and beneficial; but, that when, even on debate, it should appear, that those instructions might work an injury to the State, or if on any question they should be out voted, they should not consider themselves bound by their instructions; and further, that as Representatives of said county, they fully acknowledged the jurisdiction of this State over the said county and its in<g ref="char:EOLhyphen"/>habitants.</p>
             <p>THIS representation seems to be big with great mischief; for surely if there was any validity in their credentials, there was equally the same in their instructions, for they both derived from one committee, and were both joined on one paper, and all done in one day, and if their credentials gave them a seat in that ho<g ref="char:EOLhyphen"/>nourable house, they must consequently follow their instruction or
-<pb n="14" facs="tcp:015234_0014_0F982CEFC3A194A8"/>
+<pb n="14" facs="unknown:015234_0014_0F982CEFC3A194A8"/>
 cease to be the representatives of the people, by the same rule that George the third ceased to be our King by breaking his corona<g ref="char:EOLhyphen"/>tion oath.</p>
             <p>THUS it appears that out of above two thousand voters, in the county of Cumberland, but three hundred and sixty-eight could be persuaded to vote for delegates, and by no means a majority in the county of Gloucester, and not one on the west side of the range of Green Mountains, in the latter of which is full half of the inhabitants in said district.</p>
             <p>BY this the candid reader will see, that there has but a very in<g ref="char:EOLhyphen"/>considerable part of the inhabitants in said district, ever attempted to delegate power of legislation to any body politic, and those un<g ref="char:EOLhyphen"/>der particular restrictions: Therefore the inhabitants of said Dis<g ref="char:EOLhyphen"/>trict, have the sole exclusive and inherent right, to govern their internal police; in consequence of which, it now behoves every one to be critical in establishing a plan of Government, for it will be like a seed sown, which will spring up, with boughs either ex<g ref="char:EOLhyphen"/>tending to secure the liberties of Millions yet unborn, or else to skreen the wicked designs of crafty usurpers.</p>
@@ -370,7 +372,7 @@ cease to be the representatives of the people, by the same rule that George the 
             <p>LIEUTENANT GOVERNOR COLDEN represented to his Majesty and Privy Council, that it would be greatly to the advantage of the inhabitants of the district of lands to the westward of Con<g ref="char:EOLhyphen"/>necticut River, which had been before granted by the government of New-Hampshire, to be under the jurisdiction of the province of New-York, and that Connecticut River was a good and <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="15" facs="tcp:015234_0015_0F982CF084F0ADD0"/>
+               <pb n="15" facs="unknown:015234_0015_0F982CF084F0ADD0"/>
 boundary line to divide the two respective provinces, and further<g ref="char:EOLhyphen"/>more, that Hudson's River was navigable a great way into the country, and the situation of the New-Hampshire Grants, was such, as would naturally constitute that river the center of trade and commerce, for the inhabitants of those Grants, by the naviga<g ref="char:EOLhyphen"/>tion of which, they could easily send exports to the city of New-York, and receive and return such articles as they would; and that it would therefore be much more convenient and happy for them to be under the jurisdiction of New-York, &amp;c.</p>
             <p>THIS Representation of Lieutenant Governor Colden was fa<g ref="char:EOLhyphen"/>lacy, and would appear so to be, to any gentleman that knew the situation of the New-Hampshire Grants: as to a few towns, in the south-west corner of the district of lands aforesaid, I grant that Hudson's River will naturally constitute that the center of trade to the inhabitants thereof, and a small part of the south-east cor<g ref="char:EOLhyphen"/>ner of the said district, from their remote situation from Hudson's River, Lake Champlain, &amp;c. and their contiguousness to Connec<g ref="char:EOLhyphen"/>ticut River, will naturally constitute that the center of trade for its inhabitants; but far the greater part of the district of lands aforesaid, from their remote situation from Hudson's River, navi<g ref="char:EOLhyphen"/>gation in Connecticut River and the eastern sea-ports, from the contiguousness thereof to Lake Champlain, Chamblee, Montreal on the river St. Lawrence, &amp;c. will naturally constitute them the center of trade for the inhabitants thereof.</p>
             <p>THIS being the situation of the district of the New-Hampshire Grants as to trade, and had it not been for self-interest, that is, by the handle of jurisdiction, to over-reach and seduce the people by cunning, fraud, violence and oppression, so as to make the landed interest of the New-Hampshire Grants their own, will plainly appear by their conduct towards us. No sooner than they had of <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -384,7 +386,7 @@ boundary line to divide the two respective provinces, and further<g ref="char:EO
                </gap> to certain monopolizing attornies and fav<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>urite gentlemen of New York; at this the peaceable inhabi<g ref="char:EOLhyphen"/>tants
-<pb n="16" facs="tcp:015234_0016_0F982CF143ADCD90"/>
+<pb n="16" facs="unknown:015234_0016_0F982CF143ADCD90"/>
 were greatly alarmed, they sent repeatedly to New-York for settlement of such an unheard of dispute, but none could be had, except they would resign up their New Hampshire charters and deeds and take new ones under the great seal of the province of New-York: At this the inhabitants sent an agent to the Court of Great-Britain to solicit redress, and he obtained the following pro<g ref="char:EOLhyphen"/>hibition, viz.</p>
             <q>
                <floatingText xml:lang="eng">
@@ -455,7 +457,7 @@ were greatly alarmed, they sent repeatedly to New-York for settlement of such an
                </gap> our feet, in open defiance to the regal authority <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>f Great-Britain. They also sent showers of writs of ejectment to the inhabitants,
-<pb n="17" facs="tcp:015234_0017_0F982CF203683CF8"/>
+<pb n="17" facs="unknown:015234_0017_0F982CF203683CF8"/>
 which, on trial, produced writs of possession; then the posse commitatus, consisting of about 700 men were raised to enforce possession, then the spirited inhabitants assembled with arms, to repel force by force; from this the inhabitants of said district may date the beginning of the war for our rights and liberties, which we have now joined the United States of America in; I have been a personal actor in both scenes, but can see no odds in the nature of the dispute, however much they may differ in their degree.</p>
             <p>FOR thus defending our possessions which the legislative and ex<g ref="char:EOLhyphen"/>ecutive powers of New-York, attempted to take from us by vir<g ref="char:EOLhyphen"/>tue of subsequent patents, that was laid on ours after the arrival of the above prohibition, we were indicted for rioters, large sum<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -475,7 +477,7 @@ which, on trial, produced writs of possession; then the posse commitatus, consis
                               <desc>•</desc>
                            </gap> fell within this district by the determination of the northern boundary of that province, in the year 1740.</p>
                         <p>
-                           <pb n="18" facs="tcp:015234_0018_0F982CF2C2FEA1D0"/>
+                           <pb n="18" facs="unknown:015234_0018_0F982CF2C2FEA1D0"/>
                            <hi>Secondly,</hi> Those grants of land made within this district, by the government of New-York, previous to the establishment of the townships laid out by the Governor of New-Hampshire, after the conclusion of the peace, and which land now lies within the limits of some one or other of those townships.</p>
                         <p>
                            <hi>Thirdly,</hi> Those townships which having been originally laid out by the Governor of New-Hampshire, either continue in the same state, or have been confirmed by grants from New York, and also those which have since originated under grants from the latter of those colonies.</p>
@@ -492,7 +494,7 @@ which, on trial, produced writs of possession; then the posse commitatus, consis
                            </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>s of
-<pb n="19" facs="tcp:015234_0019_0F982CF41FE396E8"/>
+<pb n="19" facs="unknown:015234_0019_0F982CF41FE396E8"/>
 their quitting such claim, receive a grant under the seal of New-York, upon the like terms and free of all expences, of <gap reason="illegible" resp="#PDCC" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap> number of acres, in some other part of the district, lying be<g ref="char:EOLhyphen"/>tween the rivers Hudson and Connecticut, and in case where any actual settlement or improvement has been made, by such claimants, that they should in such case receive fifty acres of waste land for every three acres they may have so improved.</p>
@@ -527,7 +529,7 @@ their quitting such claim, receive a grant under the seal of New-York, upon the 
                   <desc>〈…〉</desc>
                </gap> the mountains in said district.</p>
             <p>
-               <pb n="20" facs="tcp:015234_0020_0F982CF4435C9880"/>
+               <pb n="20" facs="unknown:015234_0020_0F982CF4435C9880"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> had <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -560,7 +562,7 @@ their quitting such claim, receive a grant under the seal of New-York, upon the 
                </gap>t from the Massachusetts-Bay, thirdly by the government of New-Hampshire, and fourthly, by an uninterrupted possession and occupancy about seventy years.</p>
             <p>THE Assembly of New York in their state of the rights of the colony of New-York, &amp;c. in order to rid their government of the blame justly due, say, that said mandamus proceeded from the crown, and was an act decisive in itself.</p>
             <p>
-               <pb n="21" facs="tcp:015234_0021_0F982CF5033EE6F0"/>A very extraordinary representation, the right of election is re<g ref="char:EOLhyphen"/>stricted entirely to crown lands, whereon no christian subject to the crown is settled by possession or otherwise. Common sense may teach, that a manda<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="21" facs="unknown:015234_0021_0F982CF5033EE6F0"/>A very extraordinary representation, the right of election is re<g ref="char:EOLhyphen"/>stricted entirely to crown lands, whereon no christian subject to the crown is settled by possession or otherwise. Common sense may teach, that a manda<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>us, or any other crown grant, cannot subvert the property which the subject holds under the crown, by virtue of prior grants; that would overturn all grants and make the King absolute.</p>
             <p>THUS it plainly appears, that self-interest was the moving cause of the government aforesaid making such a representation to the court of Great-Britain; had it not been for sake of profit to them<g ref="char:EOLhyphen"/>selves, it is not likely they would ever have troubled his Majesty on this subject, and if they had done it in the simplicity of their hearts, to accommodate the inhabitants in general as to trade, &amp;c. they would have solicited his Majesty to annex said district to the province of Quebec, as said grants are bound about 100 miles on the eastern shores of Lake Champlain and from the north end of said lake to Chamblee is twelve miles land carriage, and to Mon<g ref="char:EOLhyphen"/>treal eighteen, near the latter, in the river St. Lawrence, seventy-gun ships have sailed.</p>
@@ -568,7 +570,7 @@ their quitting such claim, receive a grant under the seal of New-York, upon the 
                   <desc>•</desc>
                </gap>ighest and best sea-ports, without any regard to jurisdicti<g ref="char:EOLhyphen"/>onal lines, witness the western part of the Massachusetts-Bay and Connecticut, they have made their main trade to the city of New-York ever since the origin of their settlements.</p>
             <p>I have heard some people raise this objection, viz. That it was inconvenient for the district of the New-Hampshire Grants to be a State, for the sole reason of there not being a seaport in said district. I freely grant we have none, and if we were annexed to
-<pb n="22" facs="tcp:015234_0022_0F982CF5C38590C8"/>
+<pb n="22" facs="unknown:015234_0022_0F982CF5C38590C8"/>
 any other State that would not bring a seaport any nearer to us; those things are immovable, yet I think we are as well off as ever any inland State was, in consequence of our bordering so far on Lake Champlain, &amp;c. by which means the State may be supplied with all kinds of goods at a reasonable rate, and make a good market for all such species as are to be spared in exchange. In some parts of the world there is inland kingdoms, and why not inland States; we have our advantages and disadvantages in this as well as in all oth<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>r things.</p>
@@ -610,7 +612,7 @@ any other State that would not bring a seaport any nearer to us; those things ar
                </gap> null and void, by <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>aid court's giving writs of possession against the New-Hampshire
-<pb n="23" facs="tcp:015234_0023_0F982CF683499938"/>
+<pb n="23" facs="unknown:015234_0023_0F982CF683499938"/>
 settlers by virtue of subsequent patents from New-York, by rea<g ref="char:EOLhyphen"/>son of which several of the New-Hampshire setlers were dispos<g ref="char:EOLhyphen"/>sessed <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> farms and tenements; therefore the inhabitants of said Gra<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -667,7 +669,7 @@ For <gap reason="illegible" resp="#PDCC" extent="1 word">
                </gap>tain her <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>, and as noble Generals in the field as English annals have any
-<pb n="24" facs="tcp:015234_0024_0F982CF743A56920"/>
+<pb n="24" facs="unknown:015234_0024_0F982CF743A56920"/>
 account of, powder, cannon and all kinds of warlike stores are manufactured amongst us, ships of war are built, nay, the pre<g ref="char:EOLhyphen"/>parations of war goes on with such rapidity, that it is not to be parrellelled in history, foreign powers are now assisting the rising States of America in many respects.</p>
             <p>THIS <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -686,7 +688,7 @@ account of, powder, cannon and all kinds of warlike stores are manufactured amon
                </gap>t them. Our Assemb<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ies and courts
-<pb n="25" facs="tcp:015234_0025_0F982CF804DE1FD0"/>
+<pb n="25" facs="unknown:015234_0025_0F982CF804DE1FD0"/>
 will have but short sessions, and have but little way to go, and all such money will be spent <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> the State, and <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -699,7 +701,7 @@ will have but short sessions, and have but little way to go, and all such money 
                </gap> annexed to any other, for take it which way you will Court-houses and jails will be wanted, therefore I cannot see where any very great expence should arise from.</p>
             <p>IF we were to be in the State of New-York, then we must send delegates to sit in the Provincial Congress of said State, it would be a long and expensive road to travel and an expensive place when there, and in order to have the people properly represented, there should a considerable number go, and when they are all met in Congress, the State would be so large, that gentlemen from the extreme parts would not personally know but very little bet<g ref="char:EOLhyphen"/>ter the situation of the other extreme parts than a gentlman would from London, yet most of them must stay and see what was done, and give their consent for or against, and as there has been an unhappy dispute between this district and the former go<g ref="char:EOLhyphen"/>vernment of New-York, and some members of that honourable house have been our greatest antagonists, it is possible the best of men might be some biased, though unperceivable to them, thus these gentlemen will spend near or all the year, in doing what little business concerns this district, and assist others to do theirs, which they know nothing of, and in getting other gentlemen to give their consent to all resolves that concerns this district, who will be equally ignorant of our situation by reason of their local situation from ours, this being the case, it necessarily follows, that there ought to delegates enough go from this district, to know all business that should be necessary to be done for said district, if so, surely the same gentlemen might much easier and cheaper, do their business, by meeting in some convenient place in this dis<g ref="char:EOLhyphen"/>trist, where no other business would interfere with theirs.</p>
             <p>
-               <pb n="26" facs="tcp:015234_0026_0F982CF8C38B1EA8"/>WHEN civil laws should again take place, doubtless there would be many actions appealed up to the supreme court at New-York, and as the state would be so large, doubtless they would be full of business, for that and many other reasons, it is likely ac<g ref="char:EOLhyphen"/>tions would be continued from one session to another, no doubt some very disputable cases, that would need numbers of evidences personally to speak: What an amazing expence it must be, for a man to go 450 miles to attend a court in this situation, yet his action may be put along through several courts. In this way of expence would go many thousand pounds out of this district.</p>
+               <pb n="26" facs="unknown:015234_0026_0F982CF8C38B1EA8"/>WHEN civil laws should again take place, doubtless there would be many actions appealed up to the supreme court at New-York, and as the state would be so large, doubtless they would be full of business, for that and many other reasons, it is likely ac<g ref="char:EOLhyphen"/>tions would be continued from one session to another, no doubt some very disputable cases, that would need numbers of evidences personally to speak: What an amazing expence it must be, for a man to go 450 miles to attend a court in this situation, yet his action may be put along through several courts. In this way of expence would go many thousand pounds out of this district.</p>
             <p>THE great distance of road betwixt this district and New York, is alone a convincing argument, that the God of nature never de<g ref="char:EOLhyphen"/>signed said district should be under the jurisdiction of said State.</p>
             <p>I Now appeal to the impartial reader, which of these two ways would be best, wisest and cheapest, both for the district of the New-Hampshire Grants and the State of New-York.</p>
             <l>— Brave countrymen,</l>
